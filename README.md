@@ -4,7 +4,7 @@
 🧏 Ask me about accessibility  
 🌍 I'm based in Godalming (London-ish)  
 🖥️ See my portfolio at [burnt.io](http://burnt.io)  
-✉️ You can contact me on Twitter [@burntcustard](https://www.twitter.com/burntcustard) or at [burntcustard@gmail.com](mailto:burntcustard@gmail.com)  
+✉️ You can reach me on Twitter [@burntcustard](https://www.twitter.com/burntcustard) or via email [burntcustard@gmail.com](mailto:burntcustard@gmail.com)  
 
 ### Skills
 
