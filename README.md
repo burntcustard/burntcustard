@@ -1,4 +1,4 @@
-### Hi! My name's John. aka burntcustard.
+## Hi! My name's John. aka burntcustard.
 
 👨‍💻 I'm a senior front-end web developer  
 🧏 Ask me about accessibility  
